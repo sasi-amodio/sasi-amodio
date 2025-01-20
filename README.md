@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi There, I'm Salvatore Amodio 👋
 
-<!--
-**sasi-amodio/sasi-amodio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI Software Developer. I love problem-solving and building impactful projects.
 
-Here are some ideas to get you started:
+## Let's Connect!
+Feel free to reach out if you'd like to discuss collaboration or tech trends, or want to connect. I'm always open to learning and working on new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 **Email**: [sasi.amodio98@gmail.com](mailto:sasi.amodio98@gmail.com)
+<!-- - 📝 **Blog**: [yourblog.com](https://yourblog.com) *(optional)* -->
+- 💼 **LinkedIn**: [linkedin.com/in/salvatore-amodio](https://www.linkedin.com/in/salvatore-amodio)
+
+---
+
+Thanks for checking out my profile! 🌟 Let's make the web smarter, one line of code at a time.
